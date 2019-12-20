@@ -1,5 +1,6 @@
 [
   "bieniu/ha-shellies-discovery",
   "bieniu/ha-thermostat-update",
-  "mf-social/ps-date-countdown"
+  "mf-social/ps-date-countdown",
+  "joshkay/home-assistant-twinkly"
 ]
